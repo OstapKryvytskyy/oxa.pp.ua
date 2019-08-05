@@ -1,2 +1,2 @@
 # oxa.pp.ua
-OXA Systems, Inc. online landing page
+Company information. English language only.
